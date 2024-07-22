@@ -18,11 +18,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@Sumeetrana/gig-globe-helper-lib",
+  "name": "@Sumeetrana/gig-globe-app-helper",
   "author": "Sumeet Rana",
   "repository": {
     "type": "git",
-    "url": "gist+https://github.com/Sumeetrana/GigGlobe.git"
+    "url": "gist+https://github.com/Sumeetrana/GigGlobe-helper-lib"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
